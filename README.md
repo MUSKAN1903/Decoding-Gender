@@ -6,6 +6,7 @@ In this project, i have chosen to deal with the gender classification of human b
 
 # CONTENT 
 ![image](https://github.com/MUSKAN1903/Decoding-Gender/assets/70433658/de66fe70-1253-4bc7-aeb3-5e73a62c821e)
+
 The Dataset was taken from Kaggle and contains 7 features and a label column.
 - **Long_hair** - This column contains O's and 1's where 1 is "long hair" and 0 is "not long hair".
 - **Forehead_width_cm** - This column is in CM's. This is the width of the forehead.

@@ -32,18 +32,22 @@ Analysing the data
 LIPS DIMENSION BY GENDER
 ![image](https://github.com/MUSKAN1903/Decoding-Gender/assets/70433658/c059af72-5953-4d50-aa45-163b6f75a984)
 ![image](https://github.com/MUSKAN1903/Decoding-Gender/assets/70433658/d7f0085f-b7a2-4839-b2f8-e10bd035af6f)
+
 We can see that most of the females have wider lips and shorter distance between the nose and lips than the males.
 
 FOREHEAD DIMENSION BY GENDER
 ![image](https://github.com/MUSKAN1903/Decoding-Gender/assets/70433658/5d765cd5-ca93-4792-a063-86a16481574c)
+
 we can see that males have more wide and high forehead than females.
 
 HAIR DIMENSION BY GENDER
 ![image](https://github.com/MUSKAN1903/Decoding-Gender/assets/70433658/6c14982b-dfee-4fbb-bc5d-56bf77f8da8d)
+
 For this dataset , We can see that there is very small diferences in hair length between males and females.
 
 NOSE DIMENSION BY GENDER
 ![image](https://github.com/MUSKAN1903/Decoding-Gender/assets/70433658/ff9e37ef-18fb-4ae3-8c7f-01ee75e3d8f5)
+
 We can see that females have thinner and shorter noses than males.
 
 Correlation between the features
